@@ -1,0 +1,68 @@
+.button-container {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  margin: 1rem 10rem;
+  padding: 1rem 3rem;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.image-container {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+}
+
+.text-container {
+  display: inline-block;
+  width: 70%;
+}
+.container {
+  display: inline-block;
+  width: 100%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.resim {
+  display: inline-block;
+  border-radius: 50%;
+  width: 30%;
+  margin-left: 10rem;
+  vertical-align: top;
+  width: 15rem; 
+  height: 15rem; 
+}
+
+.metin {
+  display: inline-block;
+  width: 70%;
+  padding-left: 30rem;
+  box-sizing: border-box;
+  font-family: 'Chelsea Market', cursive;
+}
+
+.metin-bolumu {
+  background-color: #DDB9A3;
+  color: aliceblue;
+  padding: 1rem;
+  font-family: 'Roboto Mono', monospace;
+  margin: 7rem;
+}
+
+.container-2 {
+  display: table;
+  width: 100%;
+  font-family: 'Roboto Mono', monospace;
+}
+.footer {
+  text-align: center;
+}
